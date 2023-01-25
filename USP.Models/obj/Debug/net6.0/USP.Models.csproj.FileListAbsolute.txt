@@ -1,0 +1,12 @@
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\bin\Debug\net6.0\USP.Models.deps.json
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\bin\Debug\net6.0\USP.Models.dll
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\bin\Debug\net6.0\USP.Models.pdb
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\obj\Debug\net6.0\USP.Models.csproj.AssemblyReference.cache
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\obj\Debug\net6.0\USP.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\obj\Debug\net6.0\USP.Models.AssemblyInfoInputs.cache
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\obj\Debug\net6.0\USP.Models.AssemblyInfo.cs
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\obj\Debug\net6.0\USP.Models.csproj.CoreCompileInputs.cache
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\obj\Debug\net6.0\USP.Models.dll
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\obj\Debug\net6.0\refint\USP.Models.dll
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\obj\Debug\net6.0\USP.Models.pdb
+C:\Users\38160\OneDrive\Documents\GitHub\USP\USP\USP.Models\obj\Debug\net6.0\ref\USP.Models.dll
